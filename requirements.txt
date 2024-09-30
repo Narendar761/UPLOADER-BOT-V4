@@ -3,13 +3,13 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
-pyrofork
+pyrogram
 requests
 tgcrypto
 yt-dlp
 olefile
 motor
-pymongo
+pymongo[srv]
 dnspython
 ffmpeg-python
 ffmpeg
