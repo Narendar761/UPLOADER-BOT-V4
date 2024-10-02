@@ -9,7 +9,7 @@ tgcrypto
 yt-dlp
 olefile
 motor
-pymongo[srv]
+pymongo==4.8.0
 dnspython
 ffmpeg-python
 ffmpeg
@@ -18,7 +18,7 @@ loggers
 filetype
 tldextract
 aiofiles
-pyromod
+pyromod==1.2
 flask
 gunicorn==20.1.0
 
