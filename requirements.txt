@@ -3,7 +3,7 @@ beautifulsoup4
 hachoir
 numpy
 Pillow
-pyrofork
+pyrofork==2.3.45
 requests
 tgcrypto
 yt-dlp
